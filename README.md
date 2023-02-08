@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Informatics**
 
-- 📫 How to reach me **bangjall@gmail.com**
+- 📫 How to reach me **bangjall14des02@gmail.com**
 
 - ⚡ Fun fact **will help everyone**
 
