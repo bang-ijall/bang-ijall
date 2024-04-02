@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BangJALL</h1>
-<h3 align="center">A passionate frontend developer from Indonesian</h3>
+<h3 align="center">A passionate backend developer from Indonesian</h3>
 
 - 🔭 I’m currently working on **Mod Game**
 
